@@ -10,8 +10,3 @@ tracker:
                 - fullsend-ai/fullsend
                 - fullsend-ai/agents
 runtime: dummy
-agents:
-    - name: triage
-      runtime: dummy
-    - name: code
-      runtime: dummy
